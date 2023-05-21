@@ -32,7 +32,7 @@
       <a href="index.php" class="h1"><b>Proyecto</b>Práctica</a>
     </div>
     <div class="card-body">
-      <p class="login-box-msg">Ingrese los datos correspondientes</p>
+      <p class="login-box-msg">Ingrese sus datos correspondientes</p>
 
       <form method="post">
       <?php
